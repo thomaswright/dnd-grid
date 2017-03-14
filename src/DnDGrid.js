@@ -646,36 +646,3 @@ class Grid extends React.Component {
 const DnDGrid = R.compose(DragDropContext(HTML5Backend))(Grid);
 
 export default DnDGrid;
-/**
-const xAxisGroup = ###
-const yAxisGroup = ###
-
-const itemList = [
-  {
-    id: xxxx,
-    conditions: {
-      axisGroup2Id: axisElement1Id
-    }
-    ...otherItemInfo
-  },
-  ...
-]
-
-const axisGroups = [
-  {
-    id: axisGroup1Id,
-    name: axisGroup1Name,
-    color: axisGroup1Color,
-    elements: [
-      {
-        id: axisElement1Id,
-        name: axisElement1Name,
-        color: axisElement1Color
-      },
-      ...
-    ],
-  },
-  ...
-]
-
-*/

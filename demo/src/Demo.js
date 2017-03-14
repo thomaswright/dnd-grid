@@ -1,35 +1,6 @@
 import React, { Component } from "react";
 import DnDGrid from '../../src'
 import R from "ramda";
-/**
-const itemListing = [
-  {
-    id: xxxx,
-    conditions: {
-      axisGroup2Id: axisElement1Id
-    }
-    component: xxxx
-  },
-  ...
-]
-
-const axisGroupDescriptions = [
-  {
-    id: axisGroup1Id,
-    name: axisGroup1Name,
-    elements: [
-      {
-        id: axisElement1Id,
-        name: axisElement1Name,
-        color: axisElement1Color,
-        backgroundColor: axisElement1BackgroundColor
-      },
-      ...
-    ],
-  },
-  ...
-]
-*/
 
 const shadow = "0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)";
 
