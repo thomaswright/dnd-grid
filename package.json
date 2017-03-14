@@ -46,9 +46,8 @@
     "spreadsheet",
     "chart",
     "sort",
-    "dnd",
+    "dnd"
   ],
   "author": "Thomas Wright <contact@unclesoup.com>",
-  "license": "MIT",
-
+  "license": "MIT"
 }
