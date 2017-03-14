@@ -4,7 +4,7 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls] -->
 
-Check out the demo. **dnd-grid** is a react component that renders a scrollable grid with items sorted into and draggable between cells; axes are easily changable.
+Check out the [demo](http://dnd-grid.surge.sh/). **dnd-grid** is a react component that renders a scrollable grid with items sorted into and draggable between cells; axes are easily changable.
 
 
 ## Install
