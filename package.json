@@ -31,11 +31,24 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
-  "author": "",
-  "homepage": "",
-  "license": "MIT",
-  "repository": "",
+  "homepage": "https://github.com/thomaswright/dnd-grid#readme",
+  "bugs": {
+    "url": "https://github.com/thomaswright/dnd-grid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thomaswright/dnd-grid.git"
+  },
   "keywords": [
-    "react-component"
-  ]
+    "react",
+    "reactjs",
+    "grid",
+    "spreadsheet",
+    "chart",
+    "sort",
+    "dnd",
+  ],
+  "author": "Thomas Wright <contact@unclesoup.com>",
+  "license": "MIT",
+
 }
